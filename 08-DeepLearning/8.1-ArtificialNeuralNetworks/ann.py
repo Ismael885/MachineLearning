@@ -51,8 +51,6 @@ import keras
 from keras.models import Sequential
 from keras.layers import Dense 
 
-print(X_train.shape)
-
 
 # Inicializar la RNA
 classifier = Sequential()
